@@ -39,5 +39,5 @@ Gen IA is not about copy and past. IT's about improving quality and performance 
 ---
 
 Lets go more deep.
-### [Prompt Engineering]()
+### [Prompt Engineering](https://github.com/haysajyrsilva/studies-about-artificial-intelligence/blob/main/promptEngineering.md)
 
