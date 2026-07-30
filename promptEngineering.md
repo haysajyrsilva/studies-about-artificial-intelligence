@@ -22,4 +22,30 @@
 
 ### Don't leave room for interpretations or assumptions 
 - Think that: the AI needs the same answer you do.
-- 
+
+### Don't ask everything at once
+- separate the tasks as you would do if you were writing a code or doing a task.
+- split in many steps/small tasks
+- everything that is more important put it in the beginner of the prompt
+- give detailed explanation
+- ask one thing for each prompt
+
+### Make sure formatting of the response
+- Talk about the pattern and the way you want your code
+- `generate the code without comments`
+- `follow YAGNI rules`
+- make sure the model you are using knows the code quality you need
+- you can provide a model/template and say to the model to give the response following your template.
+ 
+### Long and complex contexts/Organization
+- Prompt engineering is for complex tasks
+- Long prompts are a blessing and a curse
+- Use tags to organize
+- Prompts evolve
+- `Treat your prompt as code` but it's code in natural language.
+- Consider that the prompts you wrote can be understandable by other people.
+- Don't write comments in prompts because the model will interprete as a action. Gove a description.
+- give visual elements.
+- Use something to represent list
+- elements to represent bold like **
+- use marks that represent a section like #
