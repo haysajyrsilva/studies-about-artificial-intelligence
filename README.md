@@ -40,4 +40,4 @@ Gen IA is not about copy and past. IT's about improving quality and performance 
 
 Lets go more deep and specific
 ### [Prompt Engineering](https://github.com/haysajyrsilva/studies-about-artificial-intelligence/blob/main/promptEngineering.md)
-### [GenIA Leadership]()
+### [GenIA Leadership](https://github.com/haysajyrsilva/studies-about-artificial-intelligence/blob/main/gen-ia-leadership-soft-skills)
