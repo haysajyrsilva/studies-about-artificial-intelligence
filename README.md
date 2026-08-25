@@ -38,6 +38,6 @@ Gen IA is not about copy and past. IT's about improving quality and performance 
 - [how to use openia model temperature for ai chat responses](https://gpt.space/pt/blog/how-to-use-openai-model-temperature-for-better-ai-chat-responses)
 ---
 
-Lets go more deep.
+Lets go more deep and specific
 ### [Prompt Engineering](https://github.com/haysajyrsilva/studies-about-artificial-intelligence/blob/main/promptEngineering.md)
-
+### [GenIA Leadership]()
